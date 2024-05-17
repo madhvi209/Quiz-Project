@@ -1,6 +1,4 @@
 
-script.js
-@@ -0,0 +1,201 @@
 const quizDB = [
     {
         question: "What is the full form of HTML?",
