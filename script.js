@@ -1,4 +1,3 @@
-
 const quizDB = [
     {
         question: "What is the full form of HTML?",
